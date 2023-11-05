@@ -70,14 +70,17 @@ isnull() and sum()
 ![280511629-aff25c2b-ab6d-47a6-8182-b0798dcec4ec](https://github.com/Apravinraj/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118707879/fdb8ee12-68a4-4cf0-9d98-141a37d14e33)
 
 data.head() for salary
+
 ![280511654-baa81b57-f088-4b89-bc69-b20414dd5a53](https://github.com/Apravinraj/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118707879/fa84ca02-83f7-4772-9350-73b984395230)
 
 
 MSE value
+
 ![280511670-baeecf39-7832-4e2a-92e9-e86c782e2c5a](https://github.com/Apravinraj/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118707879/e8755053-1279-40b3-a187-94a6c3385a58)
 
 
 r2 value
+
 ![280511693-efeb2039-b686-4701-9b4d-3f2fd8ed5e0a](https://github.com/Apravinraj/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/118707879/81072c6b-f717-4c5c-8bfe-32ba7cb93547)
 
 
